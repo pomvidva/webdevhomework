@@ -1,0 +1,13 @@
+<%- include("partials/header.ejs") %>
+
+    <form action="/write" method = 'post'>
+       <div>
+        <input name = "blogtopic" type="text" placeholder="topic" />
+       </div> 
+    
+        <div>
+            <textarea name = "blogcontent"  rows="10" cols="30" placeholder="write here"></textarea>
+        </div>
+    
+        <input type="submit" value="SUBMIT" />
+    </form>

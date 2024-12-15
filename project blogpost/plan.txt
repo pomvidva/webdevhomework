@@ -1,0 +1,11 @@
+jounal page where user can write and delete their journal
+
+feature
+1.write journal --> done
+2.delete journal -->
+3.also show date and time of writing -->
+4.make the topic clickable -->
+
+brush up
+1.adjust header to be functional -->
+2.decorate and -->
